@@ -3,7 +3,7 @@ package learnJava;
 public class AmazonQuestion {
 
 	public static void main(String[] args) {
-
+		System.out.println("Amazon Question");
 		int[] a= {100,200,300,400,500,900,1100,1200,1230,1300};
 		
 		int x = 1000;
