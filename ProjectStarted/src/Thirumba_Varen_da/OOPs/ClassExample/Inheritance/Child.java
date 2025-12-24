@@ -7,6 +7,5 @@ public class Child extends Dad{
     }
     void childproperty(){
         System.out.println("This is child property");
-        System.out.println("added");
     }
 }
