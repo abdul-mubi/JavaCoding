@@ -7,8 +7,5 @@ public class practice {
 
         int b = 2;
         System.out.println(b);
-
-        int c = 3;
-        System.out.println(c);
     }
 }
